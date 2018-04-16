@@ -36,10 +36,14 @@ html {
   border-radius: 0 0 1.5em 1.5em;
 }
 
+/* Article page styles */
+
 .card article img {
     max-height: 100%;
     float: right;
 }
+
+/* Additonal page styles */
 
 .card h2, .card p {
     margin: 0;
