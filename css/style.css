@@ -18,6 +18,9 @@ html {
   border: 0.2em solid black;
   border-radius: 1.5em;
 }
+
+/* Header / Footer page styles */
+
 .card header, .card footer {
     height: 3em;
     padding: 1em;
